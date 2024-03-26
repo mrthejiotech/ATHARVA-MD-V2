@@ -15,18 +15,12 @@ import {
 
  const defaultMenu = {
   before: `
-❖────《 𝑆𝑇𝛥𝑅 》─────❖
-┃   
-┃█▀ ▀█▀ ▄▀█ █▀█
-┃▄█ ░█░ █▀█ █▀▄
-┃
-┃█▀▄▀█ █▀▄ ▄▄ █░█ ▀▀█
-┃█░▀░█ █▄▀ ░░ ▀▄▀ █▄▄
-┃©ᎬХᏟᎬᏞ ᎪᎷᎪᎠᏆ 
+❖────《 Ⓐ🅣🅗Ⓐ🅡VⒶ 》─────❖
+┃   ＡＴＨＡＲＶＡ ＭＤ Ｖ２
 ╰─────────────────❖
 ┌─❖『ᏴϴͲ-ᏆΝͲᎬᏞ』❖
-┃❏*_ᎠᎬᏙ_*:-ᎬХᏟᎬᏞ ᎪᎷᎪᎠᏆ
-┃❏*_ᏴϴͲ ΝᎪᎷᎬ_* :ՏͲᎪᎡ-ᎷᎠ-Ꮩ2
+┃❏*_ᎠᎬᏙ_*:-IRONMAN AND ATHARVA
+┃❏*_ᏴϴͲ ΝᎪᎷᎬ_* :ＡＴＨＡＲＶＡ ＭＤ Ｖ２
 ┃❏*_ᎷϴᎠᎬ_*: %mode
 ┃❏*_ᎻϴՏͲ_*: ᏞᏆΝႮХ-ᏞᎪᏆᎡ
 ┃❏*_ͲᎽᏢᎬ_*: ᒪIᑎᑌ᙭
@@ -38,23 +32,10 @@ import {
 ┌─❖『ႮՏᎬᎡ』❖
 ┃ ❏*_ΝᎪᎷᎬ_*: %name
 ┃ ❏*_ᏀϴᏞᎠ_*: %credit
-┃ ❏*_ᏞᎬᏙᎬᏞ_*: [-1000xp to leveup]
+┃ ❏*_ᏞᎬᏙᎬᏞ_*: %level
 ┃ ❏*_ХᏢ_*: %exp / %maxexp
 ┃ ❏*_ͲϴͲᎪᏞ ХᏢ_*: %totalexp
-┃©ՏTᗩᖇ-ᗰᗪ-ᐯ2
-╰─────────────────❖
-┌─❖『ᏆΝͲᎬᏞ-ᏟϴᎡᎬ  』❖
-┃❏*Cores:* 8
-┃❏*Threads:** 16
-┃❏*Base Clock Speed:* 3.8 GHz
-┃❏*Max Turbo Boost Speed:*5.1 ┃GHz
-┃❏ *Cache:* 16 MB Intel Smart ┃Cache
-┃❏*Lithography:* 14 nm
-┃❏*TDP (Thermal Design ┃Power):* 125 W
-┃❏*Socket:* LGA 1200
-┃❏*Memory Support:* ┃DDR4-2933
-┃❏*Integrated Graphics:* Intel ┃UHD Graphics 630
-┃❏Total Commands:-*_%totalfeatures_*
+┃© Ⓐ🅣🅗Ⓐ🅡VⒶ-ᗰᗪ-ᐯ2
 ╰─────────────────❖
  `.trimStart(),
  header: "┌─❖『 *_%category_* 』❖",
