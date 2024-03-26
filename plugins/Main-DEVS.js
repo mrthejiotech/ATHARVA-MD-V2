@@ -5,14 +5,15 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 const cat = `*_STAR-V2_*
 
 
-*_—🔰 𝘚𝘛𝘈𝘙-𝘔𝘋  𝐃𝐄𝐕 𝟏 wa.me/+2347045035241 %i'm here to help%_*
+*_—🔰 𝘚𝘛𝘈𝘙-𝘔𝘋  𝐃𝐄𝐕 𝟏 wa.me/+918279975767_*
 
 *_—🔰 𝘚𝘛𝘈𝘙-𝘔𝘋  𝐃𝐄𝐕 2 wa.me/+2347045038687_*
 *---------------------*
 
 
 *_ᴛʜᴇ ᴍᴏᴅᴇʀᴀᴛᴏʀ_*
-*${developer}*`
+IRONMAN
+꧁⋆Ⓐ🅣🅗Ⓐ🅡VⒶ⋆꧂
 
 await conn.sendFile(m.chat, pp, 'menuvid', cat, fkontak)
 }
