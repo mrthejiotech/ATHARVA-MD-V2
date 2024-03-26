@@ -1,4 +1,4 @@
-// by mznking (https://github.com/mznking)
+// by mznking (https://github.com/Hakerboy68)
 import axios from 'axios';
 import { exec } from 'child_process';
 
@@ -7,7 +7,7 @@ let handler = async (m, { conn, isOwner }) => {
     return conn.reply(m.chat, '❌ Only the owner can use this command.', m);
   }
 
-  const repositoryURL = 'https://api.github.com/repos/Xcelsama/STAR-MD-V2';
+  const repositoryURL = 'https://api.github.com/repos/Hakerboy68/STAR-MD-V2';
 
   try {
     const command = m.text.toLowerCase();
