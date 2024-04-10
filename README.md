@@ -15,3 +15,5 @@
 ☉Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Hakerboy68/STAR-MD-V2/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<h2> This Bot Is Modified Version Of
+<a href='https://github.com/Xcelsama/STAR-MD-V2'>Star MD V2</a></h2>
