@@ -1,7 +1,6 @@
 <h1 style='text-align: center;'>ATHARVA MDV2</h1>
 <a href="https://youtube.com/@ironmanhindigaming/">
-  <img src="https://github.com/botskaking/ATHARVA-MD-V2/assets/152233761/9c838962-e204-4c2b-83cf-3bfe2a0048dc
-" alt="WhatsApp bot" width="600" height="200">
+  <img src="https://github.com/botskaking/ATHARVA-MD-V2/assets/152233761/9c838962-e204-4c2b-83cf-3bfe2a0048dc" alt="WhatsApp bot" width="600" height="200">
 </a>
 
 ❏GET SESSION ID 
