@@ -34,7 +34,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     
     }
     
-    handler.help = ['alive']
+    handler.help = ['hi']
     handler.tags = ['main']
     handler.command = /^(hi)$/i 
 
