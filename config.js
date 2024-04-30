@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919881459658', '꧁⋆Ⓐ🅣🅗Ⓐ🅡VⒶ⋆꧂', true], 
+  ['916372066717', '꧁⋆ʜɪɪᴀᴍᴅᴀʀᴋ⋆꧂', true], 
   ['918279975767', 'IRONMAN', true], 
 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919881459658','918279975767'] 
-global.prems = ['919881459658','918279975767']
-global.allowed = ['919881459658', '918279975767']
+global.mods = ['916372066717','918279975767'] 
+global.prems = ['916372066717','918279975767']
+global.allowed = ['916372066717', '918279975767']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,21 +51,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '꧁⋆Ⓐ🅣🅗Ⓐ🅡VⒶ⋆꧂MD-V2'
+global.botname = '꧁⋆𝙳𝙰𝚁𝙺 𝙱𝙾𝚃⋆꧂'
 global.premium = 'true'
-global.packname = '꧁⋆Ⓐ🅣🅗Ⓐ🅡VⒶ⋆꧂MD V2' 
-global.author = '@꧁⋆Ⓐ🅣🅗Ⓐ🅡VⒶ⋆꧂' 
+global.packname = '꧁⋆𝙳𝙰𝚁𝙺 𝙱𝙾𝚃⋆꧂' 
+global.author = '@꧁⋆𝙳𝙰𝚁𝙺 𝙱𝙾𝚃⋆꧂' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
-global.fgsc = 'https://github.com/Hakerboy68/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/\n' 
+global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/\n'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://chat.whatsapp.com/'
+global.fgpyp = 'https://chat.whatsapp.com/'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _ATHARVA IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 𝙳𝙰𝚁𝙺 𝙱𝙾𝚃 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '🔜'
 global.dmoji = '⚡'
 global.done = '☑️'
